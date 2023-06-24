@@ -14,6 +14,6 @@ git submodule add https://github.com/eliasmeireles/dart_authorization_domain.git
 - Add dependency
 
 ```yaml
-dart_net_work:
+dart_authorization_domain:
   path: ./submodules/dart_authorization_domain
 ```

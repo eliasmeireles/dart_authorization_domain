@@ -17,7 +17,7 @@ import 'package:injectable/injectable.dart' as _i2;
 
 extension GetItInjectableX on _i1.GetIt {
   // initializes the registration of main-scope dependencies inside of GetIt
-  _i1.GetIt $initAppDomainGetIt({
+  _i1.GetIt $initDartAuthorizationDomainGetIt({
     String? environment,
     _i2.EnvironmentFilter? environmentFilter,
   }) {
