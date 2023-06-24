@@ -14,7 +14,8 @@ dependencies:
 
   json_annotation: ^4.4.0
   dart_net_work:
-    path: ../dart_net_work
+    git:
+      url: https://github.com/eliasmeireles/dart_net_work.git
 
   get_it: ^7.2.0
   injectable: ^2.1.2
