@@ -1,7 +1,6 @@
 library dart_authorization_domain;
 
-export 'package:dio/dio.dart';
-
+export 'package:dart_net_work/dart_net_work.dart';
 export 'src/authorization/client/login_client.dart';
 export 'src/authorization/model/authorization_request.dart';
 export 'src/authorization/model/authorization_response.dart';

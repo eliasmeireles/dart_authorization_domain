@@ -5,15 +5,10 @@
 
 ## Getting Started
 
-- Add submodule
-
-```shell
-git submodule add https://github.com/eliasmeireles/dart_authorization_domain.git  submodules/dart_authorization_domain
-```
-
 - Add dependency
 
 ```yaml
-dart_authorization_domain:
-  path: ./submodules/dart_authorization_domain
+  dart_authorization_domain:
+    git:
+      url: https://github.com/eliasmeireles/dart_authorization_domain.git
 ```
